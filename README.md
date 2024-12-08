@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+My name is Shubhangi Waldiya, and I am currently a first-year Computer Science and Business Economics major at El Camino College. Some projects I have worked on are:
+- Sensitive Data Redaction
+- Memory Mind
+- Income Predictor
+- Phishing Predictor
+- Computing Club Website
+- Mycroft Skills
+
 <!--
 **shubhangibw/shubhangibw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
